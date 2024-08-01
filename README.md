@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&section=header&height=250&reversal=false&text=Fleur%20de%20Fontaine&desc=Yet%20Another%20Software%20and%20Website%20Developer&animation=fadeIn&fontAlign=50&fontAlignY=50&descAlign=50&descAlignY=65&fontColor=00008B" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=87CEEB,E0E0E0&section=header&height=250&reversal=false&text=Fleur%20de%20Fontaine&desc=Yet%20Another%20Software%20and%20Website%20Developer&animation=fadeIn&fontAlign=50&fontAlignY=50&descAlign=50&descAlignY=65&fontColor=F8F8FF" alt="Header"/>
 </p>
 
 # 📞 How to Reach Me?
