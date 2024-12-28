@@ -1,69 +1,98 @@
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=300&section=header&text=Fleur%20de%20Fontaine&fontSize=70&fontColor=fff&animation=fadeIn&desc=Crafting%20Digital%20Experiences%20with%20Passion&descAlignY=65)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF9A9E&center=true&vCenter=true&random=false&width=600&lines=Software+%26+Web+Development+Enthusiast;Frontend+Development+Specialist;Welcome+to+my+Creative+Space!)](https://git.io/typing-svg)
+# Muhammad Fathur Laksono ✨
+### I'm a **Front-End & Software Enthusiast**
 
-</div>
-
-# 💫 About Me
-> *"Creating digital experiences that inspire and innovate"*
-
-Hello! I'm **Muhammad Fathur**, a **Software & Website Developer**. I specialize in **front-end**, combining creativity with technology to build unique digital experiences.
-
-# 🛠️ Technology Arsenal
-
-### 💻 Languages & Frameworks
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+---
 
 </div>
 
-### 🔧 Tools & Platforms
+## 🛠️ Technical Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### Frontend Development
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />  
+</div>
+
+</td>
+<td width="50%">
+
+### Backend & Database
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Development Tools
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+</div>
+
+</td>
+<td width="50%">
+
+### Cloud & Deployment
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
+</div>
+
+</td>
+</tr>
+</table>
+
+## 💎 Featured Projects
+
+### Soon!
+
 <div align="center">
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+## 📈 GitHub Statistics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fleurdefontaine&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Journey&bg_color=1a1b27&icon_color=70a5fd&title_color=70a5fd&text_color=38bdae" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fleurdefontaine&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=70a5fd&fire=ff007f&currStreakLabel=70a5fd" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fleurdefontaine&theme=tokyo-night&hide_border=true&bg_color=1a1b27&line=70a5fd&point=70a5fd&color=38bdae" alt="Contribution Graph" />
+</div>
 
 </div>
 
-# 🎯 Featured Projects
+## 🌐 Connect With Me
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [GrowSprite API](https://growsprite.vercel.app) | An API service for Growtopia-inspired sprites and assets management | `Node.js` `Express` `MongoDB` |
-| [Coming Soon...](#) | Stay tuned for more exciting projects! | `???` |
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1053137534298902538)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleurdefontaine)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://rvnaa.my.id)
 
 </div>
 
-# 📊 GitHub Analytics
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fleurdefontaine&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9A9E&icon_color=FECFEF)](https://github.com/fleurdefontaine)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fleurdefontaine&theme=radical&hide_border=true&background=0D1117&ring=FF9A9E&fire=FECFEF&currStreakLabel=FF9A9E)](https://github.com/fleurdefontaine)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fleurdefontaine&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9A9E)](https://github.com/fleurdefontaine)
-
-</div>
-
-# 🤝 Let's Connect
+---
 
 <div align="center">
 
-[![Discord](https://lanyard.cnrad.dev/api/1053137534298902538)](https://discord.com/users/1053137534298902538)
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=150&section=footer)
+*"The only way to do great work is to love what you do"* - Steve Jobs
 
 </div>
